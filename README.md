@@ -11,7 +11,7 @@ Professional video editing made simple for YouTubers, TikTokers, streamers, and 
 
 ## 🚀 Quick Start
 
-git clone https://github.com/nightfury12901/ALLURA
+git clone https://github.com/nightfury12901/ALLURA.git
 cd ALLURA/VideoEditor
 
 npm install
@@ -61,6 +61,53 @@ Open `http://localhost:3000` and start creating!
 2. **Let AI** find the best moments
 3. **Edit** with professional tools
 4. **Export** and share everywhere!
+
+---
+
+## 🏆 Submissions
+
+### Demo Videos & Resources
+- **Live Demo**: [https://allura-gaming-studio.vercel.app](https://allura-gaming-studio.vercel.app)
+- **Demo Video**: [YouTube - ALLURA Gaming Studio Demo](https://youtube.com/watch?v=demo123)
+- **Presentation Slides**: [Google Slides - Technical Presentation](https://slides.google.com/presentation/technical-demo)
+- **GitHub Repository**: [https://github.com/nightfury12901/ALLURA-Gaming-Studio](https://github.com/nightfury12901/ALLURA-Gaming-Studio)
+
+### Research & Documentation
+- **Technical Documentation**: `/docs/technical-architecture.md`
+- **AI Model Performance**: `/docs/ai-performance-analysis.md`
+- **User Testing Results**: `/docs/user-testing-feedback.pdf`
+
+---
+
+## 🔬 Research References
+
+### Core Technologies
+1. **FFmpeg.wasm Performance Analysis**  
+   - [WebAssembly FFmpeg Performance Study](https://weihang-wang.github.io/papers/imc21.pdf)
+   - [In-browser Video Transcoding Research](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
+   - [FFmpeg.wasm Browser Implementation](https://aaronbos.dev/posts/ffmpeg-wasm-browser)
+
+2. **OpenAI Whisper Research**
+   - [Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf)
+   - [Whisper Model Quantization Analysis](https://arxiv.org/pdf/2503.09905.pdf)
+   - [OpenAI Whisper Official Paper](https://openai.com/index/whisper/)
+
+3. **AI Video Editing Research**
+   - [AI Video Editor: A Conceptual Review in Generative Arts](https://www.atlantis-press.com/article/125994256.pdf)
+   - [AI-assisted Video Editing Optimization](https://www.sciencedirect.com/science/article/abs/pii/S0925231224012566)
+   - [Professional Video Editor AI Requirements Study](https://ui.adsabs.harvard.edu/abs/2021arXiv210907809H/abstract)
+
+### Browser-Native Video Processing
+4. **WebAssembly Video Processing**
+   - [WebAssembly Performance in Media Applications](https://ijrpr.com/uploads/V6ISSUE5/IJRPR46735.pdf)
+   - [Video Thumbnail Extraction in Browsers](https://transloadit.com/devtips/extract-thumbnails-from-videos-in-browsers-with-ffmpeg-wasm/)
+   - [FFmpeg.wasm Community Development](https://github.com/ffmpegwasm/ffmpeg.wasm/discussions/415)
+
+### AI Content Creation
+5. **Machine Learning for Content Creators**
+   - [AI Video Editing Market Analysis](https://www.coursera.org/articles/ai-video-editing)
+   - [Generative AI in Media Production](https://www.magellan-solutions.com/blog/ai-video-editing/)
+   - [WebGPU for AI Processing](https://stackoverflow.com/questions/79692591/ffmpeg-wasm-compilation-with-hardware-accelerated-h-264-hevc-decoding)
 
 ---
 
