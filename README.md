@@ -66,16 +66,9 @@ Open `http://localhost:3000` and start creating!
 
 ## 🏆 Submissions
 
-### Demo Videos & Resources
-- **Live Demo**: [https://allura-gaming-studio.vercel.app](https://allura-gaming-studio.vercel.app)
+### Demo Videos
 - **Demo Video**: [YouTube - ALLURA Gaming Studio Demo](https://youtu.be/cPaOPYeNNQs?si=KjBzUsv9NE3C8_pw)
-- **Presentation Slides**: [Google Slides - Technical Presentation](https://slides.google.com/presentation/technical-demo)
-- **GitHub Repository**: [https://github.com/nightfury12901/ALLURA-Gaming-Studio](https://github.com/nightfury12901/ALLURA-Gaming-Studio)
-
-### Research & Documentation
-- **Technical Documentation**: `/docs/technical-architecture.md`
-- **AI Model Performance**: `/docs/ai-performance-analysis.md`
-- **User Testing Results**: `/docs/user-testing-feedback.pdf`
+- **GitHub Repository**: [https://github.com/nightfury12901/ALLURA-Gaming-Studio](https://github.com/nightfury12901/ALLURA)
 
 ---
 
