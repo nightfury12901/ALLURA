@@ -68,7 +68,7 @@ Open `http://localhost:3000` and start creating!
 
 ### Demo Videos & Resources
 - **Live Demo**: [https://allura-gaming-studio.vercel.app](https://allura-gaming-studio.vercel.app)
-- **Demo Video**: [YouTube - ALLURA Gaming Studio Demo](https://youtube.com/watch?v=demo123)
+- **Demo Video**: [YouTube - ALLURA Gaming Studio Demo](https://youtu.be/cPaOPYeNNQs?si=KjBzUsv9NE3C8_pw)
 - **Presentation Slides**: [Google Slides - Technical Presentation](https://slides.google.com/presentation/technical-demo)
 - **GitHub Repository**: [https://github.com/nightfury12901/ALLURA-Gaming-Studio](https://github.com/nightfury12901/ALLURA-Gaming-Studio)
 
